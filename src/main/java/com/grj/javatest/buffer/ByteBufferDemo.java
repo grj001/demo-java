@@ -1,4 +1,4 @@
-package com.grj.javatest;
+package com.grj.javatest.buffer;
 
 import java.io.FileNotFoundException;
 import java.nio.ByteBuffer;
