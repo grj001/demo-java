@@ -1,4 +1,4 @@
-package com.grj.javatest.designpatterns;
+package com.grj.javatest.designpatterns.singleton;
 
 public class InnerClassSingletonPattern {
 
