@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10749" started-at="2018-04-03T07:27:24Z" finished-at="2018-04-03T07:27:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10749" started-at="2018-04-03T07:27:24Z" finished-at="2018-04-03T07:27:35Z">
+      <class name="com.grj.javatest.awing.TestGUI">
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.grj.javatest.awing.TestGUI@2eda0940]" name="test02" duration-ms="10722" started-at="2018-04-03T07:27:24Z" finished-at="2018-04-03T07:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- com.grj.javatest.awing.TestGUI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
